@@ -1,5 +1,7 @@
 # Pinch zoom for Angular
 
+**This fork is to use the library in an Angular 14 project for my own use and will not be maintained**
+
 <img src="https://badgen.net/bundlephobia/min/ngx-pinch-zoom" />
 
 The module provides opportunities for image zooming in, zooming out and positioning with use of gestures on a touch screen. 
